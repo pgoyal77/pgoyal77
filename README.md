@@ -22,12 +22,14 @@ Graduated Dual Degree (B.Tech + M.Tech) student at <strong>IIT Mandi</strong>
 
 ## Tech Stack
 
-**Languages:** Python, Machine Learning, SQL, R, MATLAB, HTML/CSS 
+**Languages:** 
+Python, Machine Learning, SQL, R, MATLAB, HTML/CSS 
+
 **Libraries & Tools:**  
-`Pandas` | `NumPy` | `Scikit-learn` | `TensorFlow` | `OpenCV` | `YOLOv8` | `Streamlit` | `Power BI` | `Matplotlib` | `Seaborn`| 'Statistical modeling'|
+`Pandas` | `NumPy` | `Scikit-learn` | `TensorFlow` | `OpenCV` | `YOLOv8` | `Streamlit` | `Power BI` | `Matplotlib` | `Seaborn`| 'Statistical modeling'
 
 **Developer Tools:**  
-`VS Code` | `Jupyter Notebook` | `GitHub` | `Salesforce Administration` | `ImageJ` | `Kaggle`| 'Looker'| 'MATLAB'|
+`VS Code` | `Jupyter Notebook` | `GitHub` | `Salesforce Administration` | `ImageJ` | `Kaggle`| 'Looker'| 'MATLAB'
 
 ---
 
@@ -37,6 +39,7 @@ Graduated Dual Degree (B.Tech + M.Tech) student at <strong>IIT Mandi</strong>
 - **[Movie Recommender Web App](#)** — Streamlit-based app using NLP + TMDB API  
 - **[Nifty 50 Stock Forecast (ARIMA)](#)** — Time-series analysis with ACF/PACF & forecasting  
 - **[Reliance Stock LSTM Predictor](#)** — Deep learning on stock market time series  
+
 
 *(Links can be added once repos are public)*
 
