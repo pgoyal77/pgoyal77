@@ -22,12 +22,12 @@ Graduated Dual Degree (B.Tech + M.Tech) student at <strong>IIT Mandi</strong>
 
 ## Tech Stack
 
-**Languages:** Python, SQL, R, MATLAB, HTML/CSS  
+**Languages:** Python, Machine Learning, SQL, R, MATLAB, HTML/CSS 
 **Libraries & Tools:**  
-`Pandas` | `NumPy` | `Scikit-learn` | `TensorFlow` | `OpenCV` | `YOLOv8` | `Streamlit` | `Power BI` | `Matplotlib` | `Seaborn`
+`Pandas` | `NumPy` | `Scikit-learn` | `TensorFlow` | `OpenCV` | `YOLOv8` | `Streamlit` | `Power BI` | `Matplotlib` | `Seaborn`| 'Statistical modeling'|
 
 **Developer Tools:**  
-`VS Code` | `Jupyter Notebook` | `GitHub` | `Salesforce Administration` | `ImageJ` | `Kaggle`| 'Looker'|
+`VS Code` | `Jupyter Notebook` | `GitHub` | `Salesforce Administration` | `ImageJ` | `Kaggle`| 'Looker'| 'MATLAB'|
 
 ---
 
